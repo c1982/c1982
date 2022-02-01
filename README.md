@@ -13,8 +13,8 @@ I love software development. You can find my projects that solve the problems I 
 
 🌱 I’m currently learning Rust and Kurbernetes
 
-👯 I’m looking to collaborate on <a href="https://github.com/c1982/shellboy">ShellBoy</a>
+👯 I’m looking to collaborate on <a href="https://github.com/c1982/swe-dashboard">SWE Dashboard</a>
 
-💬 Ask me about Web Hosting Control Panels, Managed Services, Windowds or Linux Systems, AWS, Golang, .Net Framework
+💬 Ask me about Web Hosting Control Panels, Managed Services, Windowds or Linux Systems, AWS, Golang, .Net Framework, C#
 
 📫 How to reach me: aspsrc @ gmail.com
